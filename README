@@ -12,7 +12,8 @@ Usage
 
 * Download this repository
 * Install with ``make install``
-* Create/edit :file:`src/index.rst`
+* Create/edit :file:`presentation/YOU_SUBJECT/index.rst`
+* Link the working presentation ``ln -s presentation/YOUR_SUBJECT src``
 * Generate slides with ``make slides``
 * Open generated :file:`build/index.html` with your favorite browser
 

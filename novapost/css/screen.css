@@ -541,3 +541,7 @@ div.slide div.presenter_notes {
   z-index: 64;
   display: none;
 }
+
+p.center {
+  text-align: center;
+}

@@ -9,6 +9,7 @@
 
 # External source files (managed with their own VCS).
 /src/
+/src
 
 # Data files.
 /build/
