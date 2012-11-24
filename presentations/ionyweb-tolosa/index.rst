@@ -31,7 +31,7 @@ En tant qu'utilisateur
 ======================
 
 - Que les choses soient simple et rapide.
-- Pouvoir ajouter des photos, des vidéos, du texte et l'organiser sur une page.
+- Pouvoir ajouter photos, vidéos, texte et l'organiser sur une page.
 - Ne pas avoir plus de pré-requis que savoir écrire un mail.
 
 En tant que développeur
