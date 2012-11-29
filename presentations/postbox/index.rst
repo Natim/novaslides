@@ -16,11 +16,12 @@ Postbox
 Le projet Postbox
 -----------------
 
-- À l'origine de la création de Novapost
+- Concept à l'origine de la création de Novapost
 - Développement pour la Poste du Luxembourg : P&T Luxembourg
-- 4 ans : réalisation du cahier des charges, validation des processus
+- Discussion depuis 4 ans
 - Un potentiel de 500 000 utilisateurs
-- Déploiement début 2013 sur une vingtaine de serveurs
+- Déploiement début 2013 sur une quinzaine de serveur 
+  (incluant la pre-prod)
 
 ----
 
@@ -30,10 +31,11 @@ Cahier des charges
 En tant qu'utilisateur
 ======================
 
-- Recevoir ses factures dématérialisé sur un espace sécurisé
-- Se connecter avec un certificat physique (Luxtrust)
+- Recevoir ses factures et autres courriers dématérialisé
+- Connexion sécurisée avec un certificat physique (Luxtrust)
 - Visualiser ses documents et les trier/rechercher...
 - Uploader ses documents
+- Boite aux lettres numérique sécurisée.
 
 ----
 
@@ -48,7 +50,7 @@ En tant qu'émetteur
 - Invitations : Inviter de nouveau utilisateurs sur PostBox
 - L'espace émetteur permet de visualiser les informations
 - L'émetteur peut gérer ses espaces publicitaires avec prévisualisation
-- Gestion des rôles
+- Gestion des rôles pour les accès à l'espace émetteur.
 
 **Tout se fait via une API pour une communication inter-logiciels.**
 
